@@ -1,5 +1,5 @@
-import Header from './components/header'
-import NotificationButton from './components/NotificationButton'
+import Header from './components/header';
+import NotificationButton from './components/NotificationButton';
 import SalesCard from './components/SalesCard'
 
 function App() {
@@ -14,7 +14,7 @@ function App() {
         </section>
       </main>
     </>
-  )
-}
+  );
+};
 
-export default App
+export default App;
